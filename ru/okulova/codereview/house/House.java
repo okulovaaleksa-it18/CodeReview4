@@ -1,4 +1,4 @@
-package ru.okulova.codereview.house;
+package CodeReview4.ru.okulova.codereview.house;
 
 public class House {
     private int floors;

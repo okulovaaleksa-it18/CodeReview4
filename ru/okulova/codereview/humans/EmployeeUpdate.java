@@ -1,4 +1,4 @@
-package ru.okulova.codereview.humans;
+package CodeReview4.ru.okulova.codereview.humans;
 
 import java.util.List;
 

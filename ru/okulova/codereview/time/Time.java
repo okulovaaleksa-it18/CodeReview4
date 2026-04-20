@@ -1,4 +1,4 @@
-package ru.okulova.codereview.time;
+package CodeReview4.ru.okulova.codereview.time;
 
 public class Time {
     private int time;

@@ -1,16 +1,16 @@
-package ru.okulova.codereview.main;
+package CodeReview4.ru.okulova.codereview.main;
 
 import java.util.Arrays;
 import java.util.List;
 
-import ru.okulova.codereview.errors.ErrorChecker;
-import ru.okulova.codereview.gun.Gun;
-import ru.okulova.codereview.house.House;
-import ru.okulova.codereview.house.HouseUpdate;
-import ru.okulova.codereview.humans.EmployeeUpdate;
-import ru.okulova.codereview.humans.Employee;
-import ru.okulova.codereview.humans.Department;
-import ru.okulova.codereview.time.Time;
+import CodeReview4.ru.okulova.codereview.errors.ErrorChecker;
+import CodeReview4.ru.okulova.codereview.gun.Gun;
+import CodeReview4.ru.okulova.codereview.house.House;
+import CodeReview4.ru.okulova.codereview.house.HouseUpdate;
+import CodeReview4.ru.okulova.codereview.humans.EmployeeUpdate;
+import CodeReview4.ru.okulova.codereview.humans.Employee;
+import CodeReview4.ru.okulova.codereview.humans.Department;
+import CodeReview4.ru.okulova.codereview.time.Time;
 
 public class Main {
     public static void main(String[] args) {

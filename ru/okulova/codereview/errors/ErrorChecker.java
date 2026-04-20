@@ -1,4 +1,4 @@
-package ru.okulova.codereview.errors;
+package CodeReview4.ru.okulova.codereview.errors;
 import java.util.Scanner;
 
 public class ErrorChecker {

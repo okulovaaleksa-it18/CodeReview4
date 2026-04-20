@@ -1,4 +1,4 @@
-package ru.okulova.codereview.house;
+package CodeReview4.ru.okulova.codereview.house;
 
 public class HouseUpdate {
     private final int floors; // Устанавливаем значение единожды т.к. этажность дома не меняется.

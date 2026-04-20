@@ -1,4 +1,4 @@
-package ru.okulova.codereview.gun;
+package CodeReview4.ru.okulova.codereview.gun;
 
 public class Gun {
     private int cartridge;
